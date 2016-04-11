@@ -1,7 +1,6 @@
 # Super-rentals
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This project allows a user to make a list of cities including which country these cities are located in. A one to many relationship is then created connecting cities to certain central housing opportunities available within these cities. These two separate data modules are utilized via firebase to capture and save data.
 
 ## Prerequisites
 
